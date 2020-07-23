@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to Susastho
+                   hi
                 </div>
 
                 <div class="links">
