@@ -11,7 +11,7 @@
 			},
 			"Packager": "com.ibm.perfectstorm.cloudoe.packager.LiveEditDeploymentPackager"
 		},
-		"Name": "laravel",
+		"Name": "susastho",
 		"Target": {
 			"Url": "https://api.eu-gb.cf.cloud.ibm.com",
 			"Org": "subhrajitbhowmik80@gmail.com",
