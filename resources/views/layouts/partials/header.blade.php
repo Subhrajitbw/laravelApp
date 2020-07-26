@@ -8,7 +8,7 @@
         
         </a>
 
-        @include('layouts.partials.navigation')    
+        @yield('navigation')    
 
     </div>
 
