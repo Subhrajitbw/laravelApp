@@ -91,6 +91,12 @@ return [
             'prefix_indexes' => true,
         ],
 
+        'mongodb_conn' => [
+            'driver' => 'mongodb',
+            'dsn'=>'mongodb+srv://admin-subhra:<password>@susastho.pzdsf.mongodb.net/<dbname>?retryWrites=true&w=majority',
+            'database' => 'my_data',
+        ]
+
     ],
 
     /*
