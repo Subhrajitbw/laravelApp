@@ -1,7 +1,6 @@
-@section('navigation')
+
 <ul class="nav">
     <li class="nav-item">
-        <a class="navlink" href="#">Home</a>
+        <a class="nav-link" href="#">Home</a>
     </li>
 </ul>
-@endsection
