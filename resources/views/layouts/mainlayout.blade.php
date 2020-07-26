@@ -5,7 +5,7 @@
    @include('layouts.partials.head')
 </head>
 <body>
-    @yield('header')
+    @include('layouts.partials.header')
 </body>
 
 </html>
