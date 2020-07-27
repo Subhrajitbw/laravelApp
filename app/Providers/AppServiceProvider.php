@@ -2,7 +2,10 @@
 
 namespace App\Providers;
 
+use Illuminate\Support\Facades\DB;
+use Exception;
 use Illuminate\Support\ServiceProvider;
+use PDOException;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -21,8 +24,16 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function boot()
+   /* public function boot()
     {
         //
+    }*/
+    public function boot()
+    {
+
+
+        // ...
     }
+
+    // ...
 }
